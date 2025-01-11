@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2025 ChatGPT
+#
+# SPDX-License-Identifier: MIT
+
 """
 `adafruit_hid.keyboard_layout_fr.KeyboardLayoutFR`
 =======================================================
